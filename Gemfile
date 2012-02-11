@@ -39,7 +39,8 @@ gem 'jquery-rails'
 
 
 gem 'refinerycms', :git => 'git://railscamp.github.com/parndt/refinerycms.git'
-
+gem 'globalize3', :git => 'git://railscamp.github.com/parndt/globalize3.git'
+gem 'seo_meta', :git => 'git://railscamp.github.com/parndt/seo_meta.git'
 #  group :development, :test do
 #    gem 'refinerycms-testing', '~> 2.0'
 #  end
