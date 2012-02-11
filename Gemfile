@@ -47,7 +47,7 @@ gem 'refinerycms', :git => 'git://railscamp.github.com/parndt/refinerycms.git'
 # USER DEFINED
 
 # Add i18n support (optional, you can remove this if you really want to but it is advised to keep it).
-gem 'refinerycms-i18n',   '~> 2.0.0', :path => '/code/refinerycms/refinerycms-i18n'#:git => 'git://railscamp.github.com/parndt/refinerycms-i18n.git'
+gem 'refinerycms-i18n',   '~> 2.0.0', :git => 'git://railscamp.github.com/parndt/refinerycms-i18n.git'
 
 # Specify additional Refinery CMS Engines here (all optional):
 #  gem 'refinerycms-blog', :git => 'git://railscamp.github.com/parndt/refinerycms-blog.git', :branch => 'rails-3-1'

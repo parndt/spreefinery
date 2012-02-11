@@ -1,4 +1,13 @@
 GIT
+  remote: git://railscamp.github.com/parndt/refinerycms-i18n.git
+  revision: ea88243ef77b1eb591331edc136f9b1b6d44b749
+  specs:
+    refinerycms-i18n (2.0.0)
+      i18n-js (~> 2.1.2)
+      refinerycms-core (~> 2.0.0)
+      routing-filter (>= 0.2.3)
+
+GIT
   remote: git://railscamp.github.com/parndt/refinerycms.git
   revision: 6d05854a3d2cfa35e557ea4759499c023cc958c6
   specs:
@@ -44,14 +53,6 @@ GIT
       rack-cache (>= 0.5.3)
       refinerycms-core (= 2.0.0)
     refinerycms-settings (2.0.0)
-
-PATH
-  remote: /code/refinerycms/refinerycms-i18n
-  specs:
-    refinerycms-i18n (2.0.0)
-      i18n-js (~> 2.1.2)
-      refinerycms-core (~> 2.0.0)
-      routing-filter (>= 0.2.3)
 
 PATH
   remote: /code/spree
