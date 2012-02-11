@@ -38,7 +38,7 @@ gem 'jquery-rails'
 # gem 'ruby-debug19', :require => 'ruby-debug'
 
 
-gem 'refinerycms', :path => '/code/parndt/Refinery'#:git => 'git://railscamp.github.com/parndt/refinerycms.git'
+gem 'refinerycms', :git => 'git://railscamp.github.com/parndt/refinerycms.git'
 
 #  group :development, :test do
 #    gem 'refinerycms-testing', '~> 2.0'

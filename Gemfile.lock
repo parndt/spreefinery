@@ -1,5 +1,6 @@
-PATH
-  remote: /code/parndt/Refinery
+GIT
+  remote: git://railscamp.github.com/parndt/refinerycms.git
+  revision: 6d05854a3d2cfa35e557ea4759499c023cc958c6
   specs:
     refinerycms (2.0.0)
       bundler (~> 1.0)
