@@ -1,5 +1,8 @@
 source 'http://rubygems.org'
 
+# Fix immutable index error
+gem 'i18n-js', :git => 'git://github.com/fnando/i18n-js.git'
+
 gem 'refinerycms', :git => 'git://github.com/resolve/refinerycms.git'
 gem 'spree', :git => 'git://github.com/spree/spree.git'
 # Bundle edge Rails instead:
