@@ -7,7 +7,7 @@ GIT
 
 GIT
   remote: git://github.com/parndt/refinerycms-i18n.git
-  revision: ef027400fbdcf77841b817fd62c1360555b6215d
+  revision: 2ac57f7cd3546dec67cabe46afb3f287d40e102d
   specs:
     refinerycms-i18n (2.0.0)
       i18n-js (~> 2.1.2)
@@ -16,7 +16,7 @@ GIT
 
 GIT
   remote: git://github.com/resolve/refinerycms.git
-  revision: f7a448d65814cf73cb83d8ec1a03678f9163fc16
+  revision: 0cf3321c81d5c431846440050f243468fca3facc
   specs:
     refinerycms (2.0.0)
       bundler (~> 1.0)
@@ -63,7 +63,7 @@ GIT
 
 GIT
   remote: git://github.com/spree/spree.git
-  revision: bb22be1e53cd9cc405ed4e0512b1fa3e68cd86f7
+  revision: 56dc7c841cf9cca5974eeb678b80cd31f66f3711
   specs:
     spree (1.1.0.beta)
       spree_api (= 1.1.0.beta)
