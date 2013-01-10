@@ -1,8 +1,5 @@
 source 'http://rubygems.org'
 
-# Fix immutable index error
-gem 'i18n-js', :git => 'git://github.com/fnando/i18n-js.git'
-
 gem 'refinerycms', :git => 'git://github.com/resolve/refinerycms.git'
 gem 'spree', :git => 'git://github.com/spree/spree.git'
 # Bundle edge Rails instead:
@@ -46,7 +43,7 @@ gem 'jquery-rails'
 # USER DEFINED
 
 # Add i18n support (optional, you can remove this if you really want to but it is advised to keep it).
-gem 'refinerycms-i18n',   '~> 2.0.0', :git => 'git://github.com/parndt/refinerycms-i18n.git'
+gem 'refinerycms-i18n',   '~> 2.1.0', :git => 'git://github.com/refinery/refinerycms-i18n.git'
 
 # Specify additional Refinery CMS Engines here (all optional):
 #  gem 'refinerycms-blog', :git => 'git://railscamp.github.com/parndt/refinerycms-blog.git', :branch => 'rails-3-1'
