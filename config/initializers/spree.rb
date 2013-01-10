@@ -9,6 +9,6 @@ Spree.config do |config|
   # Example:
   # Uncomment to override the default site name.
   # config.site_name = "Spree Demo Site"
+end
 
-  config.allow_ssl_in_production = false
-end if defined?(Spree)
+Spree.user_class = "Spree::LegacyUser"

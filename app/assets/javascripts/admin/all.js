@@ -4,10 +4,10 @@
 // It's not advisable to add code directly here, but if you do, it'll appear at the bottom of the
 // the compiled file.
 //
+//= require jquery
+//= require jquery_ujs
 
 //= require admin/spree_core
-//= require admin/spree_auth
-//= require admin/spree_api
 //= require admin/spree_promo
 
 //= require_tree .
